@@ -1,0 +1,13 @@
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\obj\Debug\netcoreapp3.1\MyDictionary1.csprojAssemblyReference.cache
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\obj\Debug\netcoreapp3.1\MyDictionary1.AssemblyInfoInputs.cache
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\obj\Debug\netcoreapp3.1\MyDictionary1.AssemblyInfo.cs
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\obj\Debug\netcoreapp3.1\MyDictionary1.csproj.CoreCompileInputs.cache
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\bin\Debug\netcoreapp3.1\MyDictionary1.exe
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\bin\Debug\netcoreapp3.1\MyDictionary1.deps.json
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\bin\Debug\netcoreapp3.1\MyDictionary1.runtimeconfig.json
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\bin\Debug\netcoreapp3.1\MyDictionary1.runtimeconfig.dev.json
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\bin\Debug\netcoreapp3.1\MyDictionary1.dll
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\bin\Debug\netcoreapp3.1\MyDictionary1.pdb
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\obj\Debug\netcoreapp3.1\MyDictionary1.dll
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\obj\Debug\netcoreapp3.1\MyDictionary1.pdb
+C:\Users\frt\Desktop\kamp\MyDictionary1\MyDictionary1\obj\Debug\netcoreapp3.1\MyDictionary1.genruntimeconfig.cache
